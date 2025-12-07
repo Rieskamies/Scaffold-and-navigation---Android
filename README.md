@@ -3,7 +3,7 @@ School task / Kotlin
 
 ## What is it?
 
-a demo App in Kotlin demostrating app navigation and dividing code into components/screens.
+a demo app in Kotlin demostrating app navigation and dividing code into components/screens.
 
 ## Images
 
